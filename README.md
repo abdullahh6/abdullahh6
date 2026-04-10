@@ -42,6 +42,8 @@ PyCharm
 
 Jupyter Notebook
 
+QuickBooks
+
 📊 GitHub Stats GitHub Stats Top Languages
 
 
