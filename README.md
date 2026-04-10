@@ -1,4 +1,4 @@
-# muhammd_Abdullah
+# muhammad_Abdullah
 
 Hi 👋, I'm Muhammad Abdullah.
 
